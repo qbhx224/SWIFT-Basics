@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		3F00550F2B45071F0097E404 /* 结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "结构体.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F2AF93B2B4BC8B600C4AE87 /* 类.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "类.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F528EA52BA30C48008C6B5F /* 扩展.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "扩展.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F528EA62BA31F88008C6B5F /* 协议.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "协议.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F7257A92B3BC067005661D9 /* 函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "函数.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F7257AA2B3BC12B005661D9 /* 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "枚举.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F7C7BDF2B8C1FA500A94F0B /* 继承.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "继承.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F85FAF52B9556BB00753A89 /* 构造函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "构造函数.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC27E2B395D3F00CA712D /* 字符串.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字符串.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC27F2B395D9700CA712D /* 数组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "数组.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC2802B395DF000CA712D /* 集合.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "集合.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC2812B395E0600CA712D /* 字典.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字典.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC2822B395E8B00CA712D /* 运算符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "运算符.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3F9BC2842B395F1900CA712D /* 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3FA48BA62BA12E7200989A21 /* 类型转换.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "类型转换.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3FC388BA2BAA679C00290A59 /* 异常和泛型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "异常和泛型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3FC54B292B9097080024D8EA /* 属性和方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "属性和方法.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		3F9BC2772B395CE300CA712D = {
+			isa = PBXGroup;
+			children = (
+				3FC388BA2BAA679C00290A59 /* 异常和泛型.playground */,
+				3F528EA62BA31F88008C6B5F /* 协议.playground */,
+				3F528EA52BA30C48008C6B5F /* 扩展.playground */,
+				3FA48BA62BA12E7200989A21 /* 类型转换.playground */,
+				3F85FAF52B9556BB00753A89 /* 构造函数.playground */,
+				3FC54B292B9097080024D8EA /* 属性和方法.playground */,
+				3F7C7BDF2B8C1FA500A94F0B /* 继承.playground */,
+				3F2AF93B2B4BC8B600C4AE87 /* 类.playground */,
+				3F00550F2B45071F0097E404 /* 结构体.playground */,
+				3F7257AA2B3BC12B005661D9 /* 枚举.playground */,
+				3F7257A92B3BC067005661D9 /* 函数.playground */,
+				3F9BC2842B395F1900CA712D /* 闭包.playground */,
+				3F9BC2822B395E8B00CA712D /* 运算符.playground */,
+				3F9BC2812B395E0600CA712D /* 字典.playground */,
+				3F9BC2802B395DF000CA712D /* 集合.playground */,
+				3F9BC27F2B395D9700CA712D /* 数组.playground */,
+				3F9BC27E2B395D3F00CA712D /* 字符串.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		3F9BC2782B395CE300CA712D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = 3F9BC27B2B395CE300CA712D /* Build configuration list for PBXProject "Swift课程" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F9BC2772B395CE300CA712D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		3F9BC27C2B395CE300CA712D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		3F9BC27D2B395CE300CA712D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F9BC27B2B395CE300CA712D /* Build configuration list for PBXProject "Swift课程" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F9BC27C2B395CE300CA712D /* Debug */,
+				3F9BC27D2B395CE300CA712D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F9BC2782B395CE300CA712D /* Project object */;
+}
